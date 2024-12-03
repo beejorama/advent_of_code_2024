@@ -32,7 +32,7 @@ fn main() {
             let day_func = match day {
                 1 => advent_of_code_2024::day01::run,
                 2 => advent_of_code_2024::day02::run,
-                // 3 => advent_of_code_2024::day03::run,
+                3 => advent_of_code_2024::day03::run,
                 // 4 => advent_of_code_2024::day04::run,
                 // 5 => advent_of_code_2024::day05::run,
                 // 6 => advent_of_code_2024::day06::run,
